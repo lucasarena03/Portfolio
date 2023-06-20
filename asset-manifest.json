@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lucasarena03/static/css/main.83615c13.css",
+    "main.js": "/lucasarena03/static/js/main.cc8b1119.js",
+    "static/js/787.1ed0c42c.chunk.js": "/lucasarena03/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.png": "/lucasarena03/static/media/profile.ce533b784a3cf2de765c.png",
+    "static/media/cppScape2.png": "/lucasarena03/static/media/cppScape2.24ed776b12efca827218.png",
+    "static/media/bg.jpg": "/lucasarena03/static/media/bg.548158039139a6e2c271.jpg",
+    "static/media/cppScape.png": "/lucasarena03/static/media/cppScape.e8bb67f81db9ffbe1d10.png",
+    "index.html": "/lucasarena03/index.html",
+    "main.83615c13.css.map": "/lucasarena03/static/css/main.83615c13.css.map",
+    "main.cc8b1119.js.map": "/lucasarena03/static/js/main.cc8b1119.js.map",
+    "787.1ed0c42c.chunk.js.map": "/lucasarena03/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83615c13.css",
+    "static/js/main.cc8b1119.js"
+  ]
+}
